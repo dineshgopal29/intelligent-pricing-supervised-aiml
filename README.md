@@ -22,3 +22,6 @@ The data contains the different attributes of used cars sold in different locati
 * Seats: The number of seats in the car
 * New_Price: The price of a new car of the same model in INR Lakhs (1 Lakh INR = 100,000 INR)
 * Price: The price of the used car in INR Lakhs
+
+### Skills and Tools
+EDA, Linear regression, Linear regression assumptions, business insights and suggestions
