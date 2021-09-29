@@ -1,5 +1,5 @@
 # Intelligent Pricing Model using Supervised Linear Regression
-Building a linear regression model to intelligently predict car procing for tech startup company.
+Building a linear regression model to intelligently predict car pricing for a tech startup.
 
 ## Objective:
 To explore and visualize the dataset, build a linear regression model to predict the prices of used cars, and generate a set of insights and recommendations that will help the business.
